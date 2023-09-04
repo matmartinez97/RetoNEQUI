@@ -10,4 +10,4 @@ A continuación se muestra una imagen de la arquitectura que se propone para la 
 
 ![Arquitectura](Arquitectura.png)
 
-Notemos que al final el modelo termina en una base de datos relacional puesto que es una tabla con la cual podremos hacer las comparaciones.
+Notemos que al final, el resultado se guarda en una base de datos relacional puesto que nuestro modelo no arroja una función que permite clasificar sino que deja una tabla que nos sirve para hacer comparaciones.
