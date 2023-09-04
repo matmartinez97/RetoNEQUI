@@ -8,6 +8,6 @@ Este repositorio contiene el código del modelo que busca encontrar transaccione
 
 A continuación se muestra una imagen de la arquitectura que se propone para la puesta en producción del modelo utilizando componentes de AWS.
 
-![Arquitectura](my_image.png)
+![Arquitectura](Arquitectura.png)
 
 Notemos que al final el modelo termina en una base de datos relacional puesto que es una tabla con la cual podremos hacer las comparaciones.
